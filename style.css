@@ -1,0 +1,139 @@
+body{
+    background-color: #fcfbf2;
+    }
+      h1{
+        color:white;
+        font-size: 40pt;
+        margin-left: 10px;
+        margin-top: -64px;
+      }
+
+      header{
+        background-color: red;
+        border-style: solid;
+        position: sticky;
+        top: 0px;
+      }
+
+      img{
+        width: 100%;
+        height: 100%;
+      }
+
+      button{
+        width: 100%;
+        height: 100%;
+      }
+
+      li{
+        font-size: 20pt;
+      }
+
+
+button.botao{
+  margin-left: 1300px;
+  margin-top: 46px;
+  background-color: red;
+  height:120px;
+  width:440px;
+  font-size: 28pt;
+  border-style: solid;
+  border-width: medium;
+  color: white;
+  transition: .2s ease-in-out 0s;
+  }
+  button.botao:hover{
+    cursor: pointer;
+    transform: scale(1.25);
+    background: #c40000;
+    }
+
+
+.carossel{
+  margin-top: -470px;
+  height:600px;
+  width:1000px;
+  margin-left: 50px;
+  border-style: solid;
+  border-color: black;
+}
+
+.bandeira{
+  margin-top: 20px;
+  height:60px;
+  width:100px;
+  margin-left: 220px;
+  border-style: solid;
+}
+
+.img_cult{
+  margin-top: -134px;
+  height:600px;
+  width:1000px;
+  margin-left: 860px;
+  border-style: solid;
+  border-color: black;
+}
+
+.img_relig{
+  margin-top: -134px;
+  height:600px;
+  width:1000px;
+  margin-left: 860px;
+  border-style: solid;
+  border-color: black;
+}
+
+.img_hist{
+  margin-top: -134px;
+  height:600px;
+  width:1000px;
+  margin-left: 860px;
+  border-style: solid;
+  border-color: black;
+}
+
+.botao_voltar{
+  margin-left: 60px;
+  margin-top: 60px;
+  background-color: red;
+  height:120px;
+  width:440px;
+  font-size: 28pt;
+  border-style: solid;
+  border-width: medium;
+  color: white;
+  transition: .2s ease-in-out 0s;
+}
+button.botao_voltar:hover{
+  cursor: pointer;
+  transform: scale(1.25);
+  background: #c40000;
+  }
+
+.texto{
+  font-size: 22pt;
+}
+
+.div-cult{
+  margin-left: 50px;
+  height:600px;
+  width:600px;
+  margin-top: -448px;
+}
+
+.div-relig{
+  margin-left: 50px;
+  height:600px;
+  width:600px;
+  margin-top: -460px;
+  font-size: 18pt;
+}
+
+.div-hist{
+  margin-left: 50px;
+  height:600px;
+  width:600px;
+  margin-top: -448px;
+  font-size: 18pt;
+}
